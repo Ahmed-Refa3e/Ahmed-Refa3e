@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Elrefaie , I'm a .NET developer(Back end), from Egypt , studying computers and automatic control at faculty of engineering Tanta university</p>
+<p align="left">My name is Ahmed Elrefaie, and I am a back-end .NET developer from Egypt. I am currently studying Computers and Automatic Control at the Faculty of Engineering, Tanta University.</p>
 
 ###
 

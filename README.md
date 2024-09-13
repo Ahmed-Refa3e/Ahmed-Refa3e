@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning .NET core, I've finished many projects applying .Net technology, such as an E-commerce App, a contacts manager App, and also an application for stocks market.</p>
+<p align="left">📚 I am currently learning .NET Core and have completed several projects utilizing .NET technology, including an E-commerce application, a contact manager application, and a stock market tracking application.</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Elrefaie and I'm a .NET developer, from Egypt</p>
+<p align="left">My name is Ahmed Elrefaie and I'm a .NET developer(Back end), from Egypt , studying computers and automatic control at faculty of engineering Tanta university</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning .NET framework</p>
+<p align="left">📚 I'm currently learning .NET core, I've created many projects applying .Net technology, such as an E-commerce App, a contacts manager App, and also an application for stocks market.</p>
 
 ###
 

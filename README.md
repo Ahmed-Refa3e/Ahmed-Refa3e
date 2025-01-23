@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I am currently learning .NET Core and have completed several projects utilizing .NET technology, including an E-commerce application, a contact manager application, and a stock market tracking application.</p>
+<p align="left">📚 My specialist is .NET Core ,I have completed several projects utilizing .NET technology, including advanced E-commerce application, contacts manager application, and a stock market tracking application.</p>
 
 ###
 

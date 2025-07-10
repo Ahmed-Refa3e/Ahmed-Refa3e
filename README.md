@@ -52,7 +52,7 @@
   <img width="12" />
 
   <!-- Blazor (unofficial logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Blazor.png" height="40" alt="blazor logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="40" alt="blazor logo"  />
   <img width="12" />
 
   <!-- SQL Server -->
@@ -62,14 +62,6 @@
   <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-
-  <!-- Entity Framework (unofficial logo) -->
-  <img src="https://learn.microsoft.com/en-us/ef/core/media/logo.svg" height="40" alt="entity framework logo" />
-  <img width="12" />
-
-  <!-- SignalR (custom icon as SignalR has no official logo) -->
-  <img src="https://raw.githubusercontent.com/SignalR/SignalR/main/assets/signalr-logo.png" height="40" alt="signalr logo" />
-</div>
 
 
 ###
